@@ -18,7 +18,7 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 ?>
-<?php snippet('header') ?>
+<?php layout() ?>
 <?php snippet('intro') ?>
 
 <ul class="grid" style="--gutter: 1.5rem">
@@ -39,5 +39,3 @@
   </li>
   <?php endforeach ?>
 </ul>
-
-<?php snippet('footer') ?>

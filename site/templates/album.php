@@ -18,7 +18,8 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 ?>
-<?php snippet('header') ?>
+<?php layout() ?>
+
 <article>
   <?php snippet('intro') ?>
   <div class="grid">
@@ -44,4 +45,3 @@
     </div>
 
 </article>
-<?php snippet('footer') ?>

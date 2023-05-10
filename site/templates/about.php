@@ -20,7 +20,7 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 ?>
-<?php snippet('header') ?>
+<?php layout() ?>
 <?php snippet('intro') ?>
 <?php snippet('layouts', ['field' => $page->layout()])  ?>
 
@@ -47,5 +47,3 @@
     </section>
   </div>
 </aside>
-
-<?php snippet('footer') ?>

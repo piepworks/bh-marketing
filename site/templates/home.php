@@ -19,7 +19,7 @@
 */
 
 ?>
-<?php snippet('header') ?>
+<?php layout() ?>
   <?php snippet('intro') ?>
   <?php
   /*
@@ -58,4 +58,3 @@
     <?php endforeach ?>
   </ul>
   <?php endif ?>
-<?php snippet('footer') ?>

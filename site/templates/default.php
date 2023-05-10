@@ -18,7 +18,7 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 ?>
-<?php snippet('header') ?>
+<?php layout() ?>
 
 <article>
   <h1 class="h1"><?= $page->title()->esc() ?></h1>
@@ -26,5 +26,3 @@
     <?= $page->text()->kt() ?>
   </div>
 </article>
-
-<?php snippet('footer') ?>

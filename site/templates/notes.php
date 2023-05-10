@@ -21,7 +21,7 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 ?>
-<?php snippet('header') ?>
+<?php layout() ?>
 
 <?php if (empty($tag) === false): ?>
 <header class="h1">
@@ -43,4 +43,3 @@
 </ul>
 
 <?php snippet('pagination', ['pagination' => $notes->pagination()]) ?>
-<?php snippet('footer') ?>

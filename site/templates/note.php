@@ -21,7 +21,7 @@
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
 ?>
-<?php snippet('header') ?>
+<?php layout() ?>
 
 <?php if ($cover = $page->cover()): ?>
 <a href="<?= $cover->url() ?>" data-lightbox class="img" style="--w:2; --h:1">
@@ -55,5 +55,3 @@
 
   <?php snippet('prevnext') ?>
 </article>
-
-<?php snippet('footer') ?>
