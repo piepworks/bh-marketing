@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b2e6094a5c151722a71b3262f5ab4c84",
+    "content-hash": "92c9c23f7e90a07791873ceb7c92e2f4",
     "packages": [
         {
             "name": "claviska/simpleimage",
@@ -358,6 +358,58 @@
                 }
             ],
             "time": "2020-12-28T12:54:39+00:00"
+        },
+        {
+            "name": "getkirby/layouts",
+            "version": "2.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/getkirby/layouts.git",
+                "reference": "3ac1c8391b9c65b287b4ad4ea869a7987a73c2fc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/getkirby/layouts/zipball/3ac1c8391b9c65b287b4ad4ea869a7987a73c2fc",
+                "reference": "3ac1c8391b9c65b287b4ad4ea869a7987a73c2fc",
+                "shasum": ""
+            },
+            "require": {
+                "getkirby/cms": ">=3.9.0",
+                "getkirby/composer-installer": "^1.2.1",
+                "php": ">=8.0.0 <8.3.0"
+            },
+            "type": "kirby-plugin",
+            "extra": {
+                "installer-name": "layouts",
+                "kirby-cms-path": false
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Bastian Allgeier",
+                    "email": "bastian@getkirby.com"
+                }
+            ],
+            "description": "Kirby Layouts",
+            "homepage": "https://getkirby.com",
+            "keywords": [
+                "cms",
+                "components",
+                "kirby",
+                "layouts",
+                "slots",
+                "templates"
+            ],
+            "support": {
+                "email": "support@getkirby.com",
+                "forum": "https://forum.getkirby.com",
+                "issues": "https://github.com/getkirby/layouts/issues",
+                "source": "https://github.com/getkirby/layouts"
+            },
+            "time": "2023-05-09T16:53:31+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
