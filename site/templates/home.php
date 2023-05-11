@@ -29,5 +29,5 @@
   */
   ?>
   <?php if (!$page->text()->isEmpty()): ?>
-    <div style="font-size:5rem;"><?= $page->text() ?></div>
+    <?= $page->text() ?>
   <?php endif ?>
