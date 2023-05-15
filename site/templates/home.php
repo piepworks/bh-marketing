@@ -54,3 +54,5 @@
   <input type="submit" value="Subscribe" />
   <p><small><a href="https://buttondown.email/refer/blaze.horse" target="_blank">Powered by Buttondown.</a></small></p>
 </form>
+
+<p>You can also follow along <a rel="me" href="https://mastodon.social/@blazehorse">on Mastodon</a>.</p>
