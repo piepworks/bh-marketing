@@ -35,6 +35,7 @@
   ]) ?>
 
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
+  <script defer data-domain="blaze.horse" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
 
