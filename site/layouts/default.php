@@ -46,7 +46,7 @@
   </main>
 
   <footer class="container">
-    <small>&copy; 2023 <a href="https://piep.works"> Piepworks, LLC</a>. All rights reserved.</small>
+    <small>&copy; 2023 <a href="https://piep.works"> Piepworks LLC</a>. All rights reserved.</small>
   </footer>
 
   <?= js([

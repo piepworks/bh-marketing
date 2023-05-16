@@ -48,7 +48,7 @@
   <p>Only pay when you’re ready to launch your project! We want to make sure you get exactly what you need before money changes hands.</p>
 </details>
 
-<form action="https://buttondown.email/api/emails/embed-subscribe/blaze.horse" method="post" class="embeddable-buttondown-form">
+<form action="https://buttondown.email/api/emails/embed-subscribe/blaze.horse" method="post">
   <label for="bd-email">Sign up to be notified when it’s ready to try!</label>
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="Subscribe" />
