@@ -33,7 +33,7 @@
 <?php endif ?>
 
 <details>
-  <summary role="button" class="primary"><del>Batteries</del> <u>Reins and Saddle</u> included!</summary>
+  <summary><del>Batteries</del> <u>Reins and Saddle</u> included!</summary>
   <ul>
     <li>🐍 Uses Django’s built-in <a href="https://docs.djangoproject.com/en/stable/ref/django-admin/#cmdoption-startapp-template">django-admin --template option</a>.</li>
     <li>🫥 Sets up <a href="https://docs.djangoproject.com/en/stable/topics/auth/customizing/#auth-custom-user">a custom User model</a>.</li>
@@ -45,12 +45,12 @@
 </details>
 
 <details>
-  <summary role="button" class="primary">Free to try!</summary>
+  <summary>Free to try!</summary>
   <p>Only pay when you’re ready to launch your project! We want to make sure you get exactly what you need before money changes hands.</p>
 </details>
 
 <form action="https://buttondown.email/api/emails/embed-subscribe/blaze.horse" method="post">
-  <label for="bd-email">Sign up to be notified when it’s ready to try!</label>
+  <label for="bd-email">Sign up for the mailing list to be notified when it’s ready to try</label>
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="Subscribe" />
   <p><small><a href="https://buttondown.email/refer/blaze.horse" target="_blank">Powered by Buttondown.</a></small></p>
