@@ -51,8 +51,8 @@
 
 <form action="https://buttondown.email/api/emails/embed-subscribe/blaze.horse" method="post">
   <label for="bd-email">Sign up for the mailing list to be notified when it’s ready to try</label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Subscribe" />
+  <input type="email" name="email" id="bd-email" required>
+  <button>Subscribe</button>
   <p><small><a href="https://buttondown.email/refer/blaze.horse" target="_blank">Powered by Buttondown.</a></small></p>
 </form>
 
