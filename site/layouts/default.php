@@ -47,6 +47,14 @@
 
   <footer class="container">
     <small>&copy; 2023 <a href="https://piep.works"> Piepworks LLC</a>. All rights reserved.</small>
+
+    <div>
+      <small>
+        <a href="/policies/privacy">Privacy Policy</a>&nbsp;&nbsp;
+        <a href="/policies/terms">Terms of Use</a>&nbsp;&nbsp;
+        <a href="/policies/abuse">Use Restrictions</a>
+      </small>
+    </div>
   </footer>
 
   <?= js([
