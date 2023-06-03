@@ -32,8 +32,6 @@
   <?= smartypants($page->text()->kirbytext()) ?>
 <?php endif ?>
 
-<p>We’ve made a hundred different little decisions for you so you can just start working on your project.</p>
-
 <details open>
   <summary><del>Batteries</del> <u>Reins and Saddle</u> included!</summary>
   <ul>
