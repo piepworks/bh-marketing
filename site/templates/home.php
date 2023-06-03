@@ -32,11 +32,19 @@
   <?= smartypants($page->text()->kirbytext()) ?>
 <?php endif ?>
 
-<details>
+<p>We’ve made a hundred different little decisions for you so you can just start working on your project.</p>
+
+<details open>
   <summary><del>Batteries</del> <u>Reins and Saddle</u> included!</summary>
   <ul>
     <li>🐍 Uses Django’s built-in <a href="https://docs.djangoproject.com/en/stable/ref/django-admin/#cmdoption-startapp-template">django-admin --template option</a>.</li>
-    <li>🫥 Sets up <a href="https://docs.djangoproject.com/en/stable/topics/auth/customizing/#auth-custom-user">a custom User model</a>.</li>
+    <li>
+      🫥 Sets up a custom User model.
+      <ul>
+        <li><a href="https://docs.djangoproject.com/en/stable/topics/auth/customizing/#using-a-custom-user-model-when-starting-a-project">“If you’re starting a new project, it’s highly recommended to set up a custom user model, even if the default User model is sufficient for you.”</a></li>
+        <li>Email addresses are the usernames: the most sensible default!</li>
+      </ul>
+    </li>
     <li>🎁 <a href="https://pypi.org/project/pip-tools/">pip-compile</a> for easy dependency management.</li>
     <li>📐 <a href="https://pre-commit.com">pre-commit</a> to keep your code clean and working properly.</li>
     <li>🧪 <a href="https://pytest-django.readthedocs.io/en/latest/">pytest</a> for fast, easy-to-write tests.</li>
