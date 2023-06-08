@@ -20,17 +20,14 @@
 
 ?>
 <?php layout() ?>
-<?php snippet('intro') ?>
-<?php
-/*
-  We always use an if-statement to check if a page exists to
-  prevent errors in case the page was deleted or renamed before
-  we call a method like `children()` in this case
-*/
-?>
-<?php if (!$page->text()->isEmpty()): ?>
-  <?= smartypants($page->text()->kirbytext()) ?>
-<?php endif ?>
+
+<header class="h1">
+  <h1>🔥.🐴 Blaze.horse — Django Starter Kit</h1>
+  <h2><small>Get your next <a href="https://www.djangoproject.com/start/overview/">Django</a> project out the starting gate in a hurry!</small></h2>
+</header>
+
+<p>Big tech thinks everyone needs to <a href="https://youtu.be/KrPsyr8Ig6M?t=841">build aircraft carriers</a> when all you need is a horse.</p>
+<p>From the makers of <a href="https://cassettenest.com">Cassette Nest</a> and <a href="https://listsofbooks.com">Lists of Books</a>. We’ve distilled what we’ve learned into an easy-to-use starter kit, making a hundred little decisions so you can just get working on your project!</p>
 
 <details open>
   <summary><del>Batteries</del> <u>Reins and Saddle</u> included!</summary>
