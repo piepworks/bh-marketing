@@ -52,7 +52,8 @@
       <small>
         <a href="/policies/privacy">Privacy Policy</a>&nbsp;&nbsp;
         <a href="/policies/terms">Terms</a>&nbsp;&nbsp;
-        <a href="/policies/abuse">Use Restrictions</a>
+        <a href="/policies/abuse">Use Restrictions</a><br>
+        <a href="/policies/eula">End User License Agreement / Refund Policy</a>
       </small>
     </div>
   </footer>
