@@ -34,8 +34,17 @@
     '@auto'
   ]) ?>
 
-  <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
+  <link rel="shortcut icon" type="image/x-icon" href="<?= url('assets/favicon.ico') ?>">
   <script defer data-domain="blaze.horse" src="https://plausible.io/js/script.js"></script>
+  <style>
+    footer small {
+      font-size: 0.75rem;
+    }
+
+    footer .attribution {
+      opacity: 0.5;
+    }
+  </style>
 </head>
 <body>
 
@@ -56,6 +65,7 @@
         <a href="/policies/eula">End User License Agreement / Refund Policy</a>
       </small>
     </div>
+    <div class="attribution"><small><a href="https://www.flaticon.com/free-icon/seahorse_1864489">Seahorse icon from Freepik on Flaticon.com</a></small></div>
   </footer>
 
   <?= js([
