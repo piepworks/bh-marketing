@@ -52,6 +52,7 @@
 <details>
   <summary>Free to try!</summary>
   <p>Only pay when you’re ready to launch your project! We want to make sure you get exactly what you need before money changes hands.</p>
+  <p>Our introductory pricing is $100 USD per licensed domain. A bargain for all the time savings!</p>
 </details>
 
 <form action="https://buttondown.email/api/emails/embed-subscribe/blaze.horse" method="post">
