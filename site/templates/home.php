@@ -26,6 +26,8 @@
   <h2><small>Get your next <a href="https://www.djangoproject.com/start/overview/">Django</a> project out the starting gate in a hurry!</small></h2>
 </header>
 
+<p><b>TL;DR:</b> follow <a href="https://github.com/piepworks/django-starter#installation">these instructions</a> to get started!</p>
+
 <p>Big tech thinks everyone needs to <a href="https://youtu.be/KrPsyr8Ig6M?t=841">build aircraft carriers</a> when all you need is a horse.</p>
 <p>From the makers of <a href="https://cassettenest.com">Cassette Nest</a> and <a href="https://listsofbooks.com">Lists of Books</a>. We’ve distilled what we’ve learned into an easy-to-use starter kit, making a hundred little decisions so you can just get working on your project!</p>
 
@@ -53,7 +55,7 @@
 </details>
 
 <form action="https://buttondown.email/api/emails/embed-subscribe/blaze.horse" method="post">
-  <label for="bd-email">Sign up for the mailing list to be notified when it’s ready to try</label>
+  <label for="bd-email">Sign up for the mailing list</label>
   <input type="email" name="email" id="bd-email" required>
   <button>Subscribe</button>
   <p><small><a href="https://buttondown.email/refer/blaze.horse" target="_blank">Powered by Buttondown.</a></small></p>
