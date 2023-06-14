@@ -37,6 +37,13 @@
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('assets/favicon.ico') ?>">
   <script defer data-domain="blaze.horse" src="https://plausible.io/js/script.js"></script>
   <style>
+    header .icon {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+
+    header h1 { margin-bottom: 0; }
+
     footer small {
       font-size: 0.75rem;
     }
