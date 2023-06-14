@@ -65,7 +65,6 @@
         <a href="/policies/eula">End User License Agreement / Refund Policy</a>
       </small>
     </div>
-    <div class="attribution"><small><a href="https://www.flaticon.com/free-icon/seahorse_1864489">Seahorse icon from Freepik on Flaticon.com</a></small></div>
   </footer>
 
   <?= js([
