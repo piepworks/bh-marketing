@@ -29,7 +29,7 @@
 <p><b>TL;DR:</b> follow <a href="https://github.com/piepworks/django-starter#installation">these instructions</a> to get started!</p>
 
 <p>Big tech thinks everyone needs to <a href="https://youtu.be/KrPsyr8Ig6M?t=841">build aircraft carriers</a> when all you need is a horse.</p>
-<p>From the makers of <a href="https://cassettenest.com">Cassette Nest</a> and <a href="https://listsofbooks.com">Lists of Books</a>. We’ve distilled what we’ve learned into an easy-to-use starter kit, making a hundred little decisions so you can just get working on your project!</p>
+<p>From the makers of <a href="https://cassettenest.com">Cassette Nest</a> and <a href="https://listsofbooks.com">Lists of Books</a>. We’ve distilled what we’ve learned, making all the little picky decisions so you don’t have to: just get to work on your project!</p>
 
 <details open>
   <summary><del>Batteries</del> <u>Reins and Saddle</u> included!</summary>
