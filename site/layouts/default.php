@@ -47,10 +47,6 @@
     footer small {
       font-size: 0.75rem;
     }
-
-    footer .attribution {
-      opacity: 0.5;
-    }
   </style>
 </head>
 <body>
