@@ -30,7 +30,9 @@
 <p>Big tech thinks everyone needs to <a href="https://youtu.be/KrPsyr8Ig6M?t=841">build aircraft carriers</a>, but all you need is a horse.</p>
 <p><b>TL;DR:</b> Try it out now:</p>
 
-<pre><code class="language-bash" data-lang="bash">/bin/bash -c "$(curl -fsSL https://blaze.horse/django-starter/install)"</code></pre>
+<pre>
+  <code><b>/bin/bash</b> <i>-c</i> "<i>$(</i><b>curl</b> <i>-fsSL</i> <u>https://blaze.horse/django-starter/install</u><i>)</i>"</code>
+</pre>
 
 <p><small>(For more details, check out <a href="https://github.com/piepworks/django-starter#readme">the README</a>)</small></p>
 
