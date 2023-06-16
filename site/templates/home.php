@@ -23,8 +23,12 @@
 
 <header class="h1">
   <div class="icon"><img src="<?= url('assets/icons/seahorse.svg') ?>" height="200" width="200" alt="Seahorse icon"></div>
-  <h1>Blaze.horse — Django Starter Kit</h1>
-  <h2><small>Get your next <a href="https://www.djangoproject.com/start/overview/">Django</a> project out the starting gate in a hurry!</small></h2>
+  <h1>Blaze.horse — Django Starter&nbsp;Kit</h1>
+  <h2><small>Get your next <a href="https://www.djangoproject.com/start/overview/">Django</a> project out the starting gate in a&nbsp;hurry!</small></h2>
+  <div>
+    <a href="https://codecov.io/gh/piepworks/django-starter"><img src="https://codecov.io/gh/piepworks/django-starter/branch/main/graph/badge.svg?token=5V3K1650SC" alt="Codecov test coverage badge"></a>
+    <a href="https://github.com/piepworks/django-starter"><img src="https://img.shields.io/github/stars/piepworks/django-starter?style=social" alt="GitHub stars badge"></a>
+  </div>
 </header>
 
 <p>Big tech thinks everyone needs to <a href="https://youtu.be/KrPsyr8Ig6M?t=841">build aircraft carriers</a>, but all you need is a horse.</p>
