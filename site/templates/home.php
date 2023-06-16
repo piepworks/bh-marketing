@@ -32,7 +32,7 @@
 </header>
 
 <p>Big tech thinks everyone needs to <a href="https://youtu.be/KrPsyr8Ig6M?t=841">build aircraft carriers</a>, but all you need is a horse.</p>
-<p><b>TL;DR:</b> Try it out now (or <a href="https://asciinema.org/a/591892">watch a quick demo</a>):</p>
+<p><b>TL;DR:</b> Try it out now (or <a href="https://asciinema.org/a/591894">watch a quick demo</a>):</p>
 
 <pre>
   <code><b>/bin/bash</b> <i>-c</i> "<i>$(</i><b>curl</b> <i>-fsSL</i> <u>https://blaze.horse/django-starter/install</u><i>)</i>"</code>
