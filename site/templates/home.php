@@ -28,11 +28,16 @@
 </header>
 
 <p>Big tech thinks everyone needs to <a href="https://youtu.be/KrPsyr8Ig6M?t=841">build aircraft carriers</a>, but all you need is a horse.</p>
-<p><b>TL;DR:</b> follow <a href="https://github.com/piepworks/django-starter#installation">these instructions</a> to get started!</p>
+<p><b>TL;DR:</b> Try it out now:</p>
+
+<pre><code class="language-bash" data-lang="bash">/bin/bash -c "$(curl -fsSL https://blaze.horse/django-starter/install)"</code></pre>
+
+<p><small>(For more details, check out <a href="https://github.com/piepworks/django-starter#readme">the README</a>)</small></p>
+
 <p>From the makers of <a href="https://cassettenest.com">Cassette Nest</a> and <a href="https://listsofbooks.com">Lists of Books</a>. We’ve distilled what we’ve learned, making all the little picky decisions so you don’t have to: just get to work on your project!</p>
 
-<details open>
-  <summary><del>Batteries</del> <u>Reins and Saddle</u> included!</summary>
+<details>
+  <summary role="button" class="contrast"><del>Batteries</del> <u>Reins and Saddle</u> included!</summary>
   <ul>
     <li>🐍 Uses Django’s built-in <a href="https://docs.djangoproject.com/en/stable/ref/django-admin/#cmdoption-startapp-template">django-admin --template option</a>.</li>
     <li>
@@ -50,7 +55,7 @@
 </details>
 
 <details>
-  <summary>Free to try!</summary>
+  <summary role="button" class="contrast">Free to try!</summary>
   <p>Only pay when you’re ready to launch your project! We want to make sure you get exactly what you need before money changes hands.</p>
   <p>Our introductory pricing is $100 USD per licensed domain. A bargain for all the time savings!</p>
 </details>
@@ -59,7 +64,6 @@
   <label for="bd-email">Sign up for the mailing list</label>
   <input type="email" name="email" id="bd-email" required>
   <button>Subscribe</button>
-  <p><small><a href="https://buttondown.email/refer/blaze.horse" target="_blank">Powered by Buttondown.</a></small></p>
 </form>
 
 <p>You can also follow along <a rel="me" href="https://mastodon.social/@blazehorse">on Mastodon</a>.</p>
