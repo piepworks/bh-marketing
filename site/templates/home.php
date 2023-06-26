@@ -30,6 +30,8 @@
     <a href="https://github.com/piepworks/django-starter"><img src="https://img.shields.io/github/stars/piepworks/django-starter?style=social" alt="GitHub stars badge"></a>
     <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
     <a href="https://github.com/pre-commit/pre-commit"><img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white" alt="pre-commit: enabled"></a>
+    <a href="https://djangoproject.com"><img src="https://img.shields.io/badge/Django-4.2.x-blue?logo=django&logoColor=green" alt="Django version 4.2.x"></a>
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.11.x-blue?logo=python&logoColor=ffd440" alt="Python version 3.11.x"></a>
   </div>
 </header>
 
