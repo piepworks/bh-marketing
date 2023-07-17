@@ -26,8 +26,8 @@
   <h1>Blaze.horse — Django Starter&nbsp;Kit</h1>
   <h2><small>Get your next <a href="https://www.djangoproject.com/start/overview/">Django</a> project out the starting gate in a&nbsp;hurry!</small></h2>
   <div>
-    <a href="https://codecov.io/gh/piepworks/django-starter"><img src="https://codecov.io/gh/piepworks/django-starter/branch/main/graph/badge.svg?token=5V3K1650SC" alt="Codecov test coverage badge"></a>
-    <a href="https://github.com/piepworks/django-starter"><img src="https://img.shields.io/github/stars/piepworks/django-starter?style=social" alt="GitHub stars badge"></a>
+    <a href="https://codecov.io/gh/piepworks/blaze-starter"><img src="https://codecov.io/gh/piepworks/blaze-starter/branch/main/graph/badge.svg?token=5V3K1650SC" alt="Codecov test coverage badge"></a>
+    <a href="https://github.com/piepworks/blaze-starter"><img src="https://img.shields.io/github/stars/piepworks/blaze-starter?style=social" alt="GitHub stars badge"></a>
     <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
     <a href="https://github.com/pre-commit/pre-commit"><img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white" alt="pre-commit: enabled"></a>
     <a href="https://djangoproject.com"><img src="https://img.shields.io/badge/Django-4.2.x-blue?logo=django&logoColor=green" alt="Django version 4.2.x"></a>
@@ -39,10 +39,10 @@
 <p><b>TL;DR:</b> Try it out now (or <a href="https://asciinema.org/a/591894">watch a quick demo</a>):</p>
 
 <pre>
-  <code><b>/bin/bash</b> <i>-c</i> "<i>$(</i><b>curl</b> <i>-fsSL</i> <u>https://blaze.horse/django-starter/install</u><i>)</i>"</code>
+  <code><b>/bin/bash</b> <i>-c</i> "<i>$(</i><b>curl</b> <i>-fsSL</i> <u>https://blaze.horse/blaze-starter/install</u><i>)</i>"</code>
 </pre>
 
-<p><small>(For more details, check out <a href="https://github.com/piepworks/django-starter#readme">the README</a>)</small></p>
+<p><small>(For more details, check out <a href="https://github.com/piepworks/blaze-starter#readme">the README</a>)</small></p>
 
 <p>From the makers of <a href="https://cassettenest.com">Cassette Nest</a> and <a href="https://listsofbooks.com">Lists of Books</a>. We’ve distilled what we’ve learned, making all the little picky decisions so you don’t have to: just get to work on your project!</p>
 
