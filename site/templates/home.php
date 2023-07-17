@@ -26,7 +26,6 @@
   <h1>Blaze.horse — Django Starter&nbsp;Kit</h1>
   <h2><small>Get your next <a href="https://www.djangoproject.com/start/overview/">Django</a> project out the starting gate in a&nbsp;hurry!</small></h2>
   <div>
-    <a href="https://codecov.io/gh/piepworks/blaze-starter"><img src="https://codecov.io/gh/piepworks/blaze-starter/branch/main/graph/badge.svg?token=5V3K1650SC" alt="Codecov test coverage badge"></a>
     <a href="https://github.com/piepworks/blaze-starter"><img src="https://img.shields.io/github/stars/piepworks/blaze-starter?style=social" alt="GitHub stars badge"></a>
     <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
     <a href="https://github.com/pre-commit/pre-commit"><img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white" alt="pre-commit: enabled"></a>
