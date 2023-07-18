@@ -26,11 +26,14 @@
   <h1>Blaze.horse — Django Starter&nbsp;Kit</h1>
   <h2><small>Get your next <a href="https://www.djangoproject.com/start/overview/">Django</a> project out the starting gate in a&nbsp;hurry!</small></h2>
   <div>
+    <a href="https://codecov.io/gh/piepworks/blaze-starter"><img src="https://codecov.io/gh/piepworks/blaze-starter/branch/main/graph/badge.svg?token=5V3K1650SC" alt="Codecov test coverage badge"></a>
     <a href="https://github.com/piepworks/blaze-starter"><img src="https://img.shields.io/github/stars/piepworks/blaze-starter?style=social" alt="GitHub stars badge"></a>
     <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a>
     <a href="https://github.com/pre-commit/pre-commit"><img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white" alt="pre-commit: enabled"></a>
     <a href="https://djangoproject.com"><img src="https://img.shields.io/badge/Django-4.2.x-blue?logo=django&logoColor=green" alt="Django version 4.2.x"></a>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.11.x-blue?logo=python&logoColor=ffd440" alt="Python version 3.11.x"></a>
+    <a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQLite-in_production-blue?logo=sqlite&logoColor=green" alt="SQLite: in production"></a>
+    <a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-enabled-brightgreen?logo=playwright" alt="Playwright: enabled"></a>
   </div>
 </header>
 
@@ -64,9 +67,10 @@
 </details>
 
 <details>
-  <summary role="button" class="contrast">Free to try!</summary>
+  <summary role="button" class="contrast">Free for personal, non-commercial use! Free to try (for everyone)!</summary>
+  <p>100% free for all personal, non-commercial use! Start a new website without one of those over-hyped static site generators! <i>You deserve tried and true, old school dynamic content!</i></p>
   <p>Only pay when you’re ready to launch your project! We want to make sure you get exactly what you need before money changes hands.</p>
-  <p>Our introductory pricing is $100 USD per licensed domain. A bargain for all the time savings!</p>
+  <p>At just <a href="https://hub.piep.works">$100 USD</a> (per-site, one time!) for a license, it’s a fantastic investment to jumpstart a new project!</p>
 </details>
 
 <form action="https://buttondown.email/api/emails/embed-subscribe/blaze.horse" method="post">
