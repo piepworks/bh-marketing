@@ -37,6 +37,8 @@
   </div>
 </header>
 
+<p><a href="https://ko-fi.com/piepworks"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"></a></p>
+
 <p>Big tech thinks everyone needs to <a href="https://youtu.be/KrPsyr8Ig6M?t=841">build aircraft carriers</a>, but all you need is a horse.</p>
 <p><b>TL;DR:</b> Try it out now (or <a href="https://asciinema.org/a/591894">watch a quick demo</a>):</p>
 
@@ -47,6 +49,7 @@
 <p><small>(For more details, check out <a href="https://github.com/piepworks/blaze-starter#readme">the README</a>)</small></p>
 
 <p>From the makers of <a href="https://cassettenest.com">Cassette Nest</a> and <a href="https://listsofbooks.com">Lists of Books</a>. We’ve distilled what we’ve learned, making all the little picky decisions so you don’t have to: just get to work on your project!</p>
+
 
 <details>
   <summary role="button" class="contrast"><del>Batteries</del> <u>Reins and Saddle</u> included!</summary>
