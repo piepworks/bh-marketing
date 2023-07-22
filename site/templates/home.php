@@ -32,7 +32,7 @@
     <a href="https://github.com/pre-commit/pre-commit"><img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white" alt="pre-commit: enabled"></a>
     <a href="https://djangoproject.com"><img src="https://img.shields.io/badge/Django-4.2.x-blue?logo=django&logoColor=green" alt="Django version 4.2.x"></a>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.11.x-blue?logo=python&logoColor=ffd440" alt="Python version 3.11.x"></a>
-    <a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQLite-in_production-blue?logo=sqlite&logoColor=green" alt="SQLite: in production"></a>
+    <a href="https://litestream.io"><img src="https://img.shields.io/badge/SQLite-in_production-blue?logo=sqlite&logoColor=green" alt="SQLite: in production"></a>
     <a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-enabled-brightgreen?logo=playwright" alt="Playwright: enabled"></a>
   </div>
 </header>
@@ -41,7 +41,7 @@
 <p><b>TL;DR:</b> Try it out now (or <a href="https://asciinema.org/a/591894">watch a quick demo</a>):</p>
 
 <pre>
-  <code><b>/bin/bash</b> <i>-c</i> "<i>$(</i><b>curl</b> <i>-fsSL</i> <u>https://blaze.horse/blaze-starter/install</u><i>)</i>"</code>
+  <code><b>/bin/bash</b> <i>-c</i> "<i>$(</i><b>curl</b> <i>-fsSL</i> <u>https://blaze.horse/starter/install</u><i>)</i>"</code>
 </pre>
 
 <p><small>(For more details, check out <a href="https://github.com/piepworks/blaze-starter#readme">the README</a>)</small></p>
@@ -62,6 +62,8 @@
     <li>🎁 <a href="https://pypi.org/project/pip-tools/">pip-compile</a> for easy dependency management.</li>
     <li>📐 <a href="https://pre-commit.com">pre-commit</a> to keep your code clean and working properly.</li>
     <li>🧪 <a href="https://pytest-django.readthedocs.io/en/latest/">pytest</a> for fast, easy-to-write tests.</li>
+    <li>🎭 <a href="https://playwright.dev">Playwright</a> for robust browser testing, including visual regression tests!
+    <li>🔷 <a href="https://litestream.io/">Litestream</a> for effortless SQLite support in “serverless” environments</li>
     <li>🫀 Sets you up to build <a href="https://developer.mozilla.org/en-US/docs/Glossary/Progressive_Enhancement">progressively-enhanced</a>, accessible websites and applications.</li>
   </ul>
 </details>
