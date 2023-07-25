@@ -83,5 +83,3 @@
   <input type="email" name="email" id="bd-email" required>
   <button>Subscribe</button>
 </form>
-
-<p>You can also follow along <a rel="me" href="https://mastodon.social/@blazehorse">on Mastodon</a>.</p>
