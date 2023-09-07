@@ -1,3 +1,7 @@
 # The Blaze.horse Website
 
-Powered by [Kirby](https://gitkirby.com)
+To run locally:
+
+```shell
+python3 -m http.server
+```

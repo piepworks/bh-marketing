@@ -1,0 +1,11 @@
+# Redirects from what the browser requests to what we serve
+/starter               https://github.com/piepworks/blaze-starter
+/blaze-starter         https://github.com/piepworks/blaze-starter
+/starter/install       https://raw.githubusercontent.com/piepworks/blaze-starter/main/dev/setup.sh
+/blaze-starter/install https://raw.githubusercontent.com/piepworks/blaze-starter/main/dev/setup.sh
+/django-starter        https://github.com/piepworks/blaze-starter
+/policies/terms        https://github.com/piepworks/blazehorse-legal/blob/main/terms.md#terms-of-service
+/policies/privacy      https://github.com/piepworks/blazehorse-legal/blob/main/privacy.md#privacy-policy
+/policies/abuse        https://github.com/piepworks/blazehorse-legal/blob/main/abuse.md#use-restrictions
+/policies/eula         https://hub.piep.works/django-starter/eula
+/blaze-starter/install https://raw.githubusercontent.com/piepworks/blaze-starter/main/dev/setup.sh

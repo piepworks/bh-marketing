@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://blazehorse.netlify.app"
+  to = "https://blaze.horse"
+  status = 301
+  force = true
