@@ -1,5 +1,10 @@
 [[redirects]]
   from = "https://blazehorse.netlify.app"
-  to = "https://blaze.horse"
+  to = "https://codeberg.org/trey/bh2"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/"
+  to = "https://codeberg.org/trey/bh2"
   status = 301
   force = true
